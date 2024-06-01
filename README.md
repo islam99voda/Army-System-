@@ -30,7 +30,7 @@ The system deals with various procedures for professionally managing soldiers an
 
 ## Manage Soldiers and Officers  ## 
 Each soldier has his own file containing all the details in detail with all his attachments since the beginning of his creation on the system
-![7](https://github.com/islam99voda/Army-System-/assets/82874174/95a5e685-ab0f-4bcb-a095-51ccfe9b61da)
+![7](https://github.com/islam99voda/Army-System-/assets/82874174/95a5e685-ab0f-4bcb-a095-51ccfe9b61da) 
 
 
 
