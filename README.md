@@ -25,7 +25,8 @@ The admin can create reports about them and manage Their status and location and
 
 ## Manage Soldiers and Officers  ## 
 The system deals with various procedures for professionally managing soldiers and officers that may occur either mean the action or by wrong.
-![Uploading 6.jpg…]()
+![6](https://github.com/islam99voda/Army-System-/assets/82874174/a6278e51-7421-43c1-b50c-bdca4d1d9505)
+
 
 ## Show Soldier  ## 
 Each soldier has his own file containing all the details in detail with all his attachments since the beginning of his creation on the system.
